@@ -1,4 +1,4 @@
-baseurl: /starter
+baseurl: /snoqualmie
 permalink: pretty
 future: true
 markdown: kramdown
